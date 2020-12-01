@@ -1,4 +1,4 @@
 import pygame
-pygame.init()
+pygame.int()
 pygame.mixer.music.load('ex021.mp3')
 pygame.event.wait()
